@@ -12,16 +12,16 @@ let availableQuestions = []
 //You can change the Values below to change the questions.
 let questions = [
     {
-        question: 'What is the minimal mass requirements to tricksplit?',
-        choice1: '8000 mass',
-        choice2: '9000 mass',
-        choice3: '7000 mass',
-        choice4: '???',
-        answer: 2,
+        question: 'Who is the top ranking player in agma in terms of level?',
+        choice1: 'Shiro',
+        choice2: 'Kaiden',
+        choice3: 'Dragon',
+        choice4: 'Morinlo',
+        answer: 1,
     },
     {
         question:
-            "How many recombines can a gold member hold",
+            "How many recombines can a gold member hold?",
         choice1: "18",
         choice2: "27",
         choice3: "Unlimited",
