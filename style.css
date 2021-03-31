@@ -14,11 +14,12 @@
 
 h1 {
     font-size: 5.4rem;
-    color: #fff;
+    color: red;
     margin-bottom: 5rem;
 }
 
 h3 {
+    font-size: 1.9rem;
     color: #fff;
     margin-bottom: 5rem;
 }
